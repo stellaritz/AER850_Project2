@@ -1,6 +1,6 @@
 # AER850_Project_2
 *Alina Saleem** *501129840*  
-**Course:** AER850 – Deep Learning for Aerospace Engineering   
+**Course:** AER850 – Intro to Machine Learning
 **2025/11/05** Fall 2025  
 
 ## Project Overview
