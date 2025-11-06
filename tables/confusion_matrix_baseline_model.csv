@@ -1,0 +1,4 @@
+,pred_crack,pred_missing-head,pred_paint-off
+true_crack,143,22,10
+true_missing-head,21,133,15
+true_paint-off,56,11,20

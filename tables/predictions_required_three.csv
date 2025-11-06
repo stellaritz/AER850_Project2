@@ -1,0 +1,4 @@
+file,gt_label,predicted_label,predicted_prob,probs_vector
+C:\Users\alina\Documents\GitHub\AER850_Project2\Project 2 Data\Data\test\crack\test_crack.jpg,crack,crack,0.5784303545951843,0:0.5784;1:0.0039;2:0.4177
+C:\Users\alina\Documents\GitHub\AER850_Project2\Project 2 Data\Data\test\missing-head\test_missinghead.jpg,missing-head,missing-head,0.9893980026245117,0:0.0101;1:0.9894;2:0.0005
+C:\Users\alina\Documents\GitHub\AER850_Project2\Project 2 Data\Data\test\paint-off\test_paintoff.jpg,paint-off,paint-off,0.5541556477546692,0:0.4154;1:0.0305;2:0.5542
